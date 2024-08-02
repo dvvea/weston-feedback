@@ -1,2 +1,2 @@
 # weston-feedback
-Feedback script utilizing ox library
+Feedback script utilizing the ox library
