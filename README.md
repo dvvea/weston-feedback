@@ -14,6 +14,6 @@
 
 ## Contact
 >For issues or suggestion's feel free to create a ticket in my discord
-<img src="https://discord.com/api/guilds/[SERVER ID]/widget.png?style=banner2" alt="Discord"/>
+<img src="https://discord.com/api/guilds/1236112397563859004/widget.png?style=banner2" alt="Discord"/>
 
 
