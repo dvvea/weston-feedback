@@ -6,4 +6,3 @@
 
 ## Contact
 >For issues or suggestion's feel free to create a ticket in my discord
-https://discord.com/api/guilds/1236112397563859004/widget.json
